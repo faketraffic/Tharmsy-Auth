@@ -1,2 +1,22 @@
 # Tharmsy-Auth
-this is gonna be a authention system made by Me i hope to make this like keyauth and have a ton fo shit
+
+
+# todo
+
+### Authention system
+- HWID
+- api
+- login
+- register
+
+### dashboard
+- Creator dashboard
+  -- key management
+  -- key creation
+  -- users
+  -- auth type
+  -- and more shit
+
+
+# info
+dont know where this is going just a quick lil project i thought of while walking 
